@@ -1,2 +1,2 @@
 # Graphics
-Analyzing and Implementing algorithms in graphical engineering in python/C++ 
+Analyzing and Implementing algorithms in Computer Graphics using python/C++ 
